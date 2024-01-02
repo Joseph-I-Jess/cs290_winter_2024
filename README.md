@@ -7,7 +7,7 @@ Credits: 4
 Instructor: Joseph Jess  
 email: <jessj@linnbenton.edu>
 
-**Initial class note**: We are not in an introduction course to computer science (CS), though that does not mean most of the materials will be difficult.  We will have an intro to various web development technologies and design ideas.  We will assume that we have some programming experience and we will expand on the design, testing, and implementation concepts covered in an introductory CS course.  We need to expect to do a good bit of reading, much practicing, and much discussion of the topics we cover.
+**Initial class note**: We are **_not_** in an introduction course to computer science (CS), though that does not mean most of the materials will be difficult.  We will have an intro to various web development technologies and design ideas.  We will assume that we have some programming experience and we will expand on the design, testing, and implementation concepts covered in an introductory CS course.  We need to expect to do a good bit of reading, much practicing, and much discussion of the topics we cover.
 
 ---
 
