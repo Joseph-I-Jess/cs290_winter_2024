@@ -16,6 +16,7 @@ email: <jessj@linnbenton.edu>
 This course will cover how to design and implement a multi-tier application using Web technologies. This will include the creation of extensive custom client and server side code consistent with achieving a high-quality software architecture.
 
 **Prerequisites**: CS162 Intro to Computer Science II with a grade of “C” or better or equivalent experience as determined by a Computer Systems Department instructor
+
 ---
 
 ### 2. Class Time-space:
