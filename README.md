@@ -28,27 +28,26 @@ This course will cover how to design and implement a multi-tier application usin
 ### 3. Measurable student learning outcomes:
 
 On completion of this course, students will be able to:
-1. Demonstrate an understanding of complexity analysis and big O notation.  
-2. Analyze and write programming code for numerous searching and sorting algorithms.  
-3. Write programming code for linked lists and binary search trees.  
-4. Demonstrate an ability to trace code for sorting algorithms using recursion.  
-5. Demonstrate an understanding of hash tables, binary trees and multi-way trees.  
-I also hope to get practice with the following:  
-6. Writing algorithms using pseudocode.  
-7. Writing programs using stacks, queues, and graphs.  
-8. Demonstrate concepts related to file processing and storage management.  
-
+1. Describe the architectural elements of effective web applications.  
+2. Describe key threats to relevant architectural attributes in web enabled applications.  
+3. Demonstrate implementation of custom functionality across multiple tiers of a web enabled applications.  
+4. Evaluate which architectural strategies to apply to address quality requirements, with emphasis on scalability, usability and security.  
+My hopes are that we will also:  
+5. Design and create a moderately complex static web site that conforms to recent standards.  
+6. Implement a custom user interface behavior using client-side scripting.  
+7. Implement asynchronous calls for sending data between a client and a server.  
+8. Implement dynamically-generated websites using server-side scripting.  
+9. Use basic database commands to create, store and retrieve data in conjunction with a dynamic website
 
 ---
 
 ### 4. Learning resources:
 
-1. **Note:** All class materials and storage will be freely available in a digital format
-2. The C++ language –  available through several media.  We will discuss this quite a lot in class.
-3. A C++ compiler – I will likely use either MSVC or a GNU compatible g++.  We will talk about this in class.
-4. I recommend the IDE VSCode, I may use a simpler text editor and the command line to manually write, compile, and run; most editors would be fine.
-  1. We will discuss some capabilities of smart code editors during the course.
-5. Somewhat regular access to an Internet connection and GitHub (we will cover the GitHub in class!).
+1. **Note**: All class materials and storage will be freely available in a digital format,  
+2. HTML, CSS, Javascript, and select server-side languages – available through several media and available options will be provided when needed in class,  
+3. (**recommended**) Access to a computer outside of class to practice and work on assignments,  
+4. A text editor.  We could use a smart IDE such as VS Code to do this work as well!  
+5. We will discuss some capabilities of smart code editors during the course, 
 6. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
 
 ---
