@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>HTML basics</title>
+    <!-- <style>
+      table {border: 3px dotted green;}
+      tr {border: 2px solid red;}
+      td {border: 1px dashed black;}
+    </style> moved to CSS file css_basics.css -->
+    <link rel="stylesheet" href="css_basics.css">
+  </head>
+  <body>
+    <div id="top">
+      this is the top, click here to go to the
+      <a href="#bottom">bottom</a>
+      of the page
+    </div>
+    <div>
+      <h1>Header 1</h1>
+      <h2>Header 2</h2>
+      <h3>Header 3</h3>
+      <h4>Header 4</h4>
+      <h5>Header 5</h5>
+      <h6>Header 6</h6>
+  </div>
+
+    This            is        text that is not otherwise in some element<br>
+    this is some more text without an element
+
+    <div class="container">
+      <p class="containee" id="my_specific_item">This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph This&nbsp;&nbsp;&copy; is a paragraph.</p>
+      <div class="containee">
+        <p>This is not a containee, but it is a paragraph</p>
+      </div>
+    </div>
+    
+    <p>This           &nbsp;    is a paragraph as well</p>
+    <p>so is this</p>
+
+    <ol>
+      <li id="first-li">this is a list item</li>
+      <li>this is also a list item</li>
+      <li>this is again a list item</li>
+    </ol>
+    <ul>
+      <li>this is a list item</li>
+      <li>this is also a list item</li>
+      <li>this is again a list item</li>
+    </ul>
+
+    <dl>
+      <dt>
+        Football
+      </dt>
+      <dd>
+        American Football
+      </dd>
+      <dd>Football that we call soccer in USA</dd>
+    </dl>
+    <br>
+
+    <a href="https://www.google.com">This is a hyperlink.</a>
+    <a href="../secondsite.html">This is also a hyperlink.</a>
+
+    <br><br><br><br><br>
+    <a href="#top">This is also a hyperlink.</a>
+    <br>
+<!-- <img src="800px-Cat_August_2010-4.jpg" alt="Picture of a cat lying down." height="300px"> comment showing not to use width and height attributes. -->
+  <div class="height-2000px">
+    <p>
+      This is a paragraph about my cat picture.
+    </p>
+      <!-- Cat image from: https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg -->
+      <br>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg">
+        <img class="z-index-9001" src="800px-Cat_August_2010-4.jpg" alt="Picture of a cat lying down.">
+      </a>
+      <br>
+    <p class="clear-right position-sticky z-index--1">
+      This is also text near my cat image.
+    </p>
+  </div>  
+
+    <video>
+      <!-- add source elements that have src attributes and type attributes -->
+    </video>
+
+    <table>
+      <caption>This is a table caption</caption>
+      <thead>
+        <tr>
+          <th colspan="3">this is a table header data cell</th>
+          <th>table header data cell col 2</th>
+          <th> col 3</th>
+        </tr>
+        <tr>
+          <th colspan="3"> header row 2 col 1</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td colspan="3">this is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my tablethis is a data cell in row 1 col 1 in my table</td>
+          <td rowspan="3">row 1 col 2</td>
+          <td>this is a data cell in row 1 col 3 in my table</td>
+        </tr>
+        <tr>
+          <td>this is also a cell in row 2 col 1 in my table</td>
+          <td rowspan="2">this is also a cell in row 2 col 2 in my table</td>
+          <td>row 2 col 3</td>
+        </tr>
+        <tr>
+          <td>just one more row with a single column!</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="3">this is a data cell in row 1 col 1 in my table's foot</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <div id="bottom">This is the bottom</div>
+  </body>
+</html>

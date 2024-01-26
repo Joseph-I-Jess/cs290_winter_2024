@@ -1,0 +1,141 @@
+table {
+    border-width: 3px 0px 9px 0px;
+    border-style: solid;
+    border-color: yellow;
+    border-top-color: green;
+    border-bottom-color: blue;
+}
+/* comment*/
+tr {border: 2px solid red;}
+
+td {border: 1px dashed black;}
+
+li {
+    width: 200px;
+    border-width: 0px 6px 0px 3px;
+    border-style: solid;
+    border-color: green;
+}
+
+p {
+    font-size: 200%;
+    line-height: 120%;
+    padding: 80px;
+    border: 3px solid black;
+}
+
+.container {
+    border: 5px solid purple;
+    background-color: aquamarine;
+    width: fit-content;
+}
+
+#my_specific_item {
+    background-color: red;
+}
+
+.containee {
+    color: blueviolet;
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    overflow-y: scroll;
+    box-sizing: border-box; /* border-box box-sizing uses padding and border as a part of the calculation for the width property */
+}
+
+p.containee {
+    color: blueviolet;
+    margin: 64px;
+    background-color: aqua;
+}
+
+#first-li {
+    background: #3377BB;
+}
+
+/* Modified from: https://www.w3schools.com/cssref/sel_active.php */
+/* unvisited link */
+a:link {
+  color: blue;
+}
+  
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+/* end of stolen code */
+
+p:hover {
+    color: yellow;
+}
+
+ul::before {
+    content: "Unordered List";
+}
+
+li:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+p::selection {
+    background-color: orange;
+    color: black;
+}
+
+body {
+  background-image: url("800px-Cat_August_2010-4.jpg");
+  background-repeat: no-repeat;
+}
+
+/* #top:after {
+  content: url("800px-Cat_August_2010-4.jpg");
+  float: right;
+  clear: left;
+} */
+
+img {
+    float: right;
+    /* clear: left; */
+    position: relative;
+    top: 0px;
+}
+
+.clear-right {
+    clear: right;
+}
+
+h1 {
+    /* position: sticky; */
+    left: 20px;
+    /* right: 10px; */
+}
+
+.position-sticky {
+    position: sticky;
+    bottom: 10px;
+    top: 10px;
+}
+
+.height-2000px {
+    height: 2000px;
+}
+
+.z-index--1 {
+    z-index: -1;
+}
+
+.z-index-9001 {
+    z-index: 1;
+}
