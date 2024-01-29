@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collapsed Container Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Container with collapsed issue */
+    .container {
+      border: 1px solid #333;
+      margin: 20px;
+    }
+
+    /* Child elements with float property causing the container to collapse */
+    .child {
+      float: left;
+      width: 50%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+
+    /* Clearfix to fix the collapsed container issue */
+    .clearfix::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /* Additional styling for clarity */
+    .container:after,
+    .clearfix:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /* Styling for demonstration purposes */
+    .container {
+      background: #f0f0f0;
+      overflow: hidden; /* Fix for collapsed container */
+    }
+
+    .child {
+      background: #ddd;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Collapsed container without clearfix -->
+  <div class="container">
+    <div class="child">Child 1</div>
+    <div class="child">Child 2</div>
+    <!-- The container collapses because its child elements are floated -->
+  </div>
+
+  <!-- Container with clearfix applied -->
+  <div class="container clearfix">
+    <div class="child">Child 1</div>
+    <div class="child">Child 2</div>
+    <!-- The clearfix ensures the container does not collapse -->
+  </div>
+
+</body>
+</html>
