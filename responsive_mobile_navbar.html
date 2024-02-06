@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Mostly taken from ChatGPT... -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Navbar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    header {
+      background-color: #333;
+      padding: 10px;
+      color: white;
+      text-align: center;
+    }
+
+    nav {
+      display: flex;
+      background-color: #f2f2f2;
+      padding: 10px;
+      justify-content: space-around;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    nav a:hover {
+      background-color: #ddd;
+    }
+
+    .menu-icon {
+        display: none;
+        font-size: 24px;
+        cursor: pointer;
+      }
+
+    /* Media query for screens less than or equal to 700px */
+    @media (max-width: 700px) {
+      nav {
+        display: none; /* Hide the horizontal navbar */
+      }
+
+      /* Hamburger menu styles */
+      .menu-icon {
+        display: block;
+        font-size: 24px;
+        cursor: pointer;
+      }
+
+      .menu {
+        display: none;
+        flex-direction: column;
+        background-color: #f2f2f2;
+        position: absolute;
+        top: 60px; /* Adjust the top position as needed */
+        left: 10px;
+        z-index: 1;
+        padding: 10px;
+      }
+
+      .menu a {
+        text-decoration: none;
+        color: #333;
+        padding: 10px;
+        border-radius: 5px;
+      }
+
+      .menu a:hover {
+        background-color: #ddd;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Responsive Navbar</h1>
+  </header>
+
+  <!-- Horizontal navbar for screens above 700px -->
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <!-- Hamburger menu icon for screens below or equal to 700px -->
+  <div class="menu-icon" onclick="toggleMenu()">☰</div>
+
+  <!-- Hamburger menu for screens below or equal to 700px -->
+  <div class="menu">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.querySelector('.menu');
+      menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+    }
+  </script>
+
+</body>
+</html>

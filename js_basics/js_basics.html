@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Taken from ChatGPT... -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        #output {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>JavaScript Demo</h1>
+
+    <button onclick="showAlert()">Show Alert</button>
+    <button onclick="changeText()">Change Text</button>
+    <button onclick="changeText_bad_name()" id="change_text_button">Change Text with a bad reference (undefined function)</button>
+
+    <div id="output"></div>
+
+    <script src="scripts/js_basics.js"></script>
+
+</body>
+</html>
