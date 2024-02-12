@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Demo</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+
+    <h1>JavaScript Demo</h1>
+
+    <script>
+        // Strings and String Functions
+        let message = "Hello, World!";
+        console.log(message.length); // String length
+
+        console.log(message.toUpperCase()); // Convert to uppercase
+        console.log(message.toLowerCase()); // Convert to lowercase
+
+        console.log(message.indexOf('World')); // Find index of substring
+        console.log(message.slice(0, 5)); // Extract substring
+
+        console.log(message.replace('World', 'Universe')); // Replace substring
+
+        // Numbers and Number Functions
+        let num1 = 10;
+        let num2 = 5;
+        console.log(num1 + num2);
+
+        // Arrays
+        let colors = ['red', 'green', 'blue'];
+        console.log(colors);
+
+        // User-created Functions and Scope
+        function multiply(a, b) {
+            return a * b;
+        }
+
+        let result = multiply(3, 4);
+        console.log(result);
+
+        // For-each loop
+        colors.forEach(function(color) {
+            console.log(color);
+        });
+        // or do this:
+        colors.forEach(color => console.log(color));
+        // or
+        colors.forEach((color) => {console.log(color)});
+
+        // DOM and getElementById, getElementsByClass, querySelector
+        let elementByIdDemo = document.getElementById('demoElement');
+        console.log(elementByIdDemo);
+
+        let elementsByClassDemo = document.getElementsByClassName('demoClass');
+        console.log(elementsByClassDemo);
+
+        let querySelectorDemo = document.querySelector('.demoClass');
+        console.log(querySelectorDemo);
+
+        // JavaScript Objects
+        let person = {
+            name: 'John',
+            age: 25
+        };
+        let person2 = {name: "Joseph", age: 37};
+        console.log(person2.name, person2.age, person2)
+        console.log(person.name);
+
+
+        // Events
+        function showAlert() {
+            alert('Button clicked!');
+        }
+
+        // Minification and De-minification
+        // Minification is the process of removing unnecessary characters from code.
+        // De-minification is the reverse process.
+        // Libraries like UglifyJS can be used for minification.
+
+        // JavaScript Libraries
+        // You can include external libraries like jQuery or others here.
+
+    </script>
+
+    <!-- Add your HTML content here -->
+    <button onclick="showAlert()">Click me</button>
+
+</body>
+</html>
