@@ -13,6 +13,8 @@
     <h1>JavaScript Demo</h1>
 
     <script>
+        document.getElementsByTagName("h1")[0].innerHTML = "some text";
+        console.log(document.getElementsByTagName("h1")[0].innerHTML)
         // Strings and String Functions
         let message = "Hello, World!";
         console.log(message.length); // String length

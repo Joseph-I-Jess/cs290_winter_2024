@@ -7,8 +7,10 @@ function multiply(a, b) {
     return a * b;
 }
 function changeText() {
+    let variable = "some stuff<br>more text<ol><li>one</li><li>two</li><li>three</li></ol>"; const pi = 3.14;
+    let fun = () => {return 42;};
     var outputDiv = document.getElementById('output')
-    outputDiv.innerHTML = 'Text changed using JavaScript!'
+    outputDiv.innerHTML = fun()
     alert("You just clicked that button, didn't you?!?")
     console.log("You just clicked that button...")
 
