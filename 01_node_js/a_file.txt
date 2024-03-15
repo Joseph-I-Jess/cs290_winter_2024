@@ -1,0 +1,114 @@
+The current date is: Fri Mar 15 2024 10:26:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:26:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:26:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:26:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:28:52 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:28:52 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:28:52 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:28:52 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:28:52 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:39:59 GMT-0700 (Pacific Daylight Time)
+/index.html
+The current date is: Fri Mar 15 2024 10:39:59 GMT-0700 (Pacific Daylight Time)
+/scripts/base_script.js
+The current date is: Fri Mar 15 2024 10:39:59 GMT-0700 (Pacific Daylight Time)
+/images/image.jpg
+The current date is: Fri Mar 15 2024 10:39:59 GMT-0700 (Pacific Daylight Time)
+/images/pineapple.jpg
+The current date is: Fri Mar 15 2024 10:39:59 GMT-0700 (Pacific Daylight Time)
+/styles/main.css
+The current date is: Fri Mar 15 2024 10:48:36 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:48:36 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:49:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:49:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:49:25 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:49:25 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 10:49:36 GMT-0700 (Pacific Daylight Time)
+/this_is_some_text_entry
+The current date is: Fri Mar 15 2024 10:49:36 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 10:50:17 GMT-0700 (Pacific Daylight Time)
+/this_is_some_text_entry
+The current date is: Fri Mar 15 2024 10:50:17 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 10:50:21 GMT-0700 (Pacific Daylight Time)
+/this_is_some_text%20entry
+The current date is: Fri Mar 15 2024 10:50:54 GMT-0700 (Pacific Daylight Time)
+/%22this_is_some_text%20entry%22
+The current date is: Fri Mar 15 2024 10:52:59 GMT-0700 (Pacific Daylight Time)
+/search
+The current date is: Fri Mar 15 2024 10:55:24 GMT-0700 (Pacific Daylight Time)
+/search
+The current date is: Fri Mar 15 2024 10:55:24 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:00:02 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:00:02 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:01:23 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:01:23 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:02:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:02:08 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:02:39 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:02:39 GMT-0700 (Pacific Daylight Time)
+The current date is: Fri Mar 15 2024 11:03:05 GMT-0700 (Pacific Daylight Time)
+/search?q=what+are+some+recipes+for+cookies&rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+The current date is: Fri Mar 15 2024 11:03:05 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:07:54 GMT-0700 (Pacific Daylight Time)
+/search?q=what+are+some+recipes+for+cookies&rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+0
+The current date is: Fri Mar 15 2024 11:07:54 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+0
+The current date is: Fri Mar 15 2024 11:09:13 GMT-0700 (Pacific Daylight Time)
+/search?q=what+are+some+recipes+for+cookies&rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+/search?q=what+are+some+recipes+for+cookies&rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+The current date is: Fri Mar 15 2024 11:09:13 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:09:33 GMT-0700 (Pacific Daylight Time)
+/search?q=what+are+some+recipes+for+cookies&rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+/search?q
+what+are+some+recipes+for+cookies&rlz
+1C1CHBF_enUS987US987&oq
+what+are+some+recipes+for+cookies&gs_lcrp
+EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid
+chrome&ie
+UTF-8
+The current date is: Fri Mar 15 2024 11:09:33 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:12:00 GMT-0700 (Pacific Daylight Time)
+/search?q
+what+are+some+recipes+for+cookies
+rlz=1C1CHBF_enUS987US987&oq=what+are+some+recipes+for+cookies&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+The current date is: Fri Mar 15 2024 11:12:00 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:13:26 GMT-0700 (Pacific Daylight Time)
+/search?q
+what+are+some+recipes+for+cookies
+rlz
+1C1CHBF_enUS987US987
+oq
+what+are+some+recipes+for+cookies
+gs_lcrp
+EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA
+sourceid
+chrome
+ie
+UTF-8
+The current date is: Fri Mar 15 2024 11:13:27 GMT-0700 (Pacific Daylight Time)
+/favicon.ico
+The current date is: Fri Mar 15 2024 11:15:17 GMT-0700 (Pacific Daylight Time)
+/search
+q
+what%20are%20some%20recipes+for+cookies
+rlz
+1C1CHBF_enUS987US987
+oq
+what+are+some+recipes+for+cookies
+gs_lcrp
+EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yDQgCEAAYhgMYgAQYigXSAQg2NjI0ajBqN6gCALACAA
+sourceid
+chrome
+ie
+UTF-8
